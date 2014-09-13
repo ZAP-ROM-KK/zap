@@ -1,0 +1,17 @@
+Welcome to ZAP-ROM
+===================
+
+
+Getting Started
+---------------
+
+
+To initialize your local repository using the ZAP-ROM trees, use this command:
+
+
+	repo init -u git://github.com/ZAP-ROM/zap.git -b zap
+
+
+Then sync up with this command:
+
+	repo sync
