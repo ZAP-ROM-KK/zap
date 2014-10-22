@@ -422,7 +422,6 @@
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="slim" revision="kk4.4" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="slim" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="slim" revision="kk4.4" />
-  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="slim" revision="kk4.4" />
   <project path="packages/apps/Email" name="packages_apps_Email" remote="slim" revision="kk4.4" />
   <project path="packages/apps/Exchange" name="packages_apps_Exchange" remote="slim" revision="kk4.4" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="slim" revision="kk4.4" />
@@ -473,6 +472,7 @@
   <project path="frameworks/webview" name="frameworks_webview" remote="zap" revision="zap" />
   <project path="libcore" name="libcore" remote="zap" revision="zap" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="zap" revision="zap" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="zap" revision="zap" />
   <project path="packages/apps/EOSWeather" name="packages_apps_EOSWeather" remote="zap" revision="zap" />
   <project path="packages/apps/InCallUI" name="packages_apps_InCallUI" remote="zap" revision="zap" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="zap" revision="zap" />
